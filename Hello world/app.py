@@ -1,0 +1,7 @@
+print('Hello World')
+print("hello World")
+print('Manish Kumar Shah')
+print('O-------')
+print('  ||||||')
+print('*' * 10)
+print('This will be printed 10 Times ' * 10)
